@@ -1,0 +1,47 @@
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-direita {
+    text-align: right;
+}
+
+.alinhado-centro {
+    text-align: center;
+}
+
+.alinhado-justificado {
+    text-align: justify;
+}
+
+.maiuscula {
+    text-transform: uppercase;
+}
+
+.minuscula {
+    text-transform: lowercase;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.linha-sobreposta {
+    text-decoration: line-through;
+}
+
+.sem-text-decoration {
+    text-decoration: none;
+}
+
+.altura-entre-linhas {
+    line-height: 40px;
+}
+
+.sombra-de-texto {
+    text-shadow: 20px 10px 1px red;
+}
